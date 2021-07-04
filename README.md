@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SimpleSprout
+- 👋 Hi, I’m @venijamin
 - 👀 I’m interested in coding, mechanical keyboards, linux, videogames...
 - 🌱 I’m currently studying software engineering.
 - 💞️ I’m looking to collaborate on any project I can.
